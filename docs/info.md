@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A + B + Cin = S with Cout
 
 ## How to test
 
-Explain how to use your project
+Change the A, B, and Cin to on/off and check the output through LED
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external hardware used in your project (e.g. PMOD, LED display, etc): LED
